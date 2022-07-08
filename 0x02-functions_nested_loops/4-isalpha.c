@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
 * _isalpha - checks for alphabetical letters
 * @c: a charter to be checke on
