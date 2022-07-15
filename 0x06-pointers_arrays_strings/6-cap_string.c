@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
 * cap_string -> capitalization function
 * @x: string param
